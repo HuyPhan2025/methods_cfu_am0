@@ -9,19 +9,29 @@
 
 # YOU DO the rest:
 
-
+# The include? method is called on the string object "Hello World" to check what is place in the parameter 
+# No argument are passed; include? method has one clear job which is to search the string to see if the word in parameter is include in the string
+# The return value is "true"
 "Hello World".include?("Hello")
 
-
+# The end_with method is called on the string object "Hello World" to check what is place in the parameter 
+# No argument are passed; end_with? method has one clear job which is to search the string to check if what is place in the parameter is at the end of the string
+# The return value is "false"
 "Hello World".end_with?("Hello")
 
-
+# The end_with method is called on the string object "Hello World" to check what is place in the parameter 
+# No argument are passed; end_with? method has one clear job which is to search the string to check if what is place in the parameter is at the end of the string
+# The return value is "true"
 "Hello World".end_with?("rld")
 
-
+# The even? method is called on the integer 12
+# No argument are passed; even? method has one clear job which is to check if the integer is even
+# The return value is "true"
 12.even?
 
-
+# The next method is called on the integer 18
+# No argument are passed; next method has one clear job which is to return integer which is one higher than the integer it was called upon
+# The return value is "19"
 18.next
 
 
