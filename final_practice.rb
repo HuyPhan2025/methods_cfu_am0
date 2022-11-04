@@ -7,7 +7,7 @@ def greeting
 # What is the return value of your method?
 # return value of the method is "Welcome to Turing everyone!"
 # How many arguments did you pass your method?
-# I passed two argument in my method.
+# I passed 0 argument in my method.
 
 
 
@@ -23,7 +23,7 @@ def hello_friend(name)
 # What is the return value of your method?
 # return value of the method is "How are you erik " and "How are you weston"
 # How many arguments did you pass your method?
-# I passed 0 argument in my method.
+# I passed 2 argument in my method.
 # What data type was your argument(s)?
 # my arguments are string data type.
 
